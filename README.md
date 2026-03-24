@@ -1,24 +1,73 @@
 <h1 align="center">Hi 👋, I'm Praveen Mehta</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="Where the hell is my image" src="https://media4.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e470aycjc6ursu945bvlp27jego0gopezhw4v0n6gqa&ep=v1_gifs_search&rid=giphy.gif&ct=g"></img>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenmehta010&label=Profile%20views&color=0e75b6&style=flat" alt="praveenmehta010" /> </p>
+<h3 align="center">AI & Data Science Student | Aspiring DevOps Engineer | Backend</h3>
 
-- 🌱 I’m currently learning **Cloud Computing**
-
-- 📫 How to reach me **praveen.mehta010@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/praveenmehta010/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/praveenmehta010/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/praveen__mehta__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/praveen__mehta__/" height="30" width="40" /></a>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=praveenmehta010&label=Profile%20Views&color=0e75b6&style=flat" alt="praveenmehta010" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+<img align="right" alt="coding" width="350" src="https://media4.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"/>
 
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praveenmehta010&show_icons=true&locale=en" alt="praveenmehta010" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praveenmehta010&" alt="praveenmehta010" /></p>
+- 🎓 AI & Data Science Student at **IPU**
+- 🚀 Interested in **DevOps, Backend Systems, and Distributed Architectures**
+- 🌱 Currently learning **Cloud Computing, Docker, and CI/CD**
+- 🛠️ Building projects to understand **how real systems run in production**
+- 📫 Reach me at **praveen.mehta010@gmail.com**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=praveenmehta010&show_icons=true&locale=en&layout=compact" alt="praveenmehta010" /></p>
+---
+
+## 🌐 Portfolio
+
+💻 **Personal Website:**  
+👉 [https://your-portfolio-link.com](https://your-portfolio-link.com)
+
+---
+
+# ⚙️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> Java
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> Python
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40"/> Go
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40"/> Dart
+</p>
+
+### DevOps & Tools
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/> Docker
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/> Linux
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/> Git
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/> GitHub
+</p>
+
+### Databases
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/> MySQL
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/> MongoDB
+</p>
+
+---
+
+## 🚀 What I'm Currently Working On
+
+- Learning **DevOps fundamentals**
+- Building **distributed system projects**
+- Exploring **cloud infrastructure and CI/CD pipelines**
+
+---
+
+⭐ Always learning, always building.
