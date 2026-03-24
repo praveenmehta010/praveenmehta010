@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Praveen Mehta</h1>
 <h3 align="center">AI & Data Science Student | Aspiring DevOps Engineer | Backend</h3>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://komarev.com/ghpvc/?username=praveenmehta010&label=Profile%20Views&color=0e75b6&style=flat" alt="praveenmehta010" />
-</p>
+</p> -->
 
 <img align="right" alt="coding" width="350" src="https://media4.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"/>
 
